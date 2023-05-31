@@ -1,0 +1,23 @@
+DB(Database)
+	데이터가 모여 있는 기지.
+	추상적인 용어
+
+DBMS(Database Management System)
+	DB를 관리할 수 있는 구체적인 체계(시스템).
+	Oracle, MariaDB, MySQL, MS-SQL, MongoDB, Mongoose, ..
+
+오라클 DBMS 버전
+  9i 11g 19c 21c (오라클은 홀수버전만)(짝수는 SNAPSHOT)
+	
+	i: internet
+	g: grid
+	c: cloud
+
+오라클 DBMS 설치 - 11g
+
+https://drive.google.com/file/d/1rM1Z7-mA6vjySBgwWLr3ZI883xiL27HN/view?usp=sharing
+
+계정
+	sys	   : 모든 권한
+	system  : 계정 관리
+	일반 계정 : 스키마 관리
